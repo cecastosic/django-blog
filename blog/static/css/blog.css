@@ -21,7 +21,8 @@ h4 {
   font-family: "Lobster", cursive;
 }
 
-.date {
+.date,
+.author {
   color: #828282;
 }
 
