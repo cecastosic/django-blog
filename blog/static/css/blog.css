@@ -1,5 +1,5 @@
 .page-header {
-  background-color: #c25100;
+  background-color: #ff9403;
   margin-top: 0;
   margin-bottom: 40px;
   padding: 20px 20px 20px 40px;
@@ -59,12 +59,12 @@ h4 {
 
 .btn-default,
 .btn-default:visited {
-  color: #c25100;
+  color: #ff9403;
   background: none;
-  border-color: #c25100;
+  border-color: #ff9403;
 }
 
 .btn-default:hover {
   color: #ffffff;
-  background-color: #c25100;
+  background-color: #ff9403;
 }
